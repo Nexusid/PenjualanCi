@@ -1,0 +1,16 @@
+Masing Masing Kelebihan User
+
+User [Admin,titah]
++ Privilege All
+
+User [Gudang]
++ Stock Barang
++ Supplier
++ Kategori
++ Pembelian Barang
++ Retur
+
+User [Kasir]
++ Penjualan Eceran
++ Penjualan Grosir
++ Pelanggan

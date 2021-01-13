@@ -1,0 +1,5 @@
+Username | Password
+admin    | admin
+titah    | root
+kasir    | root
+gudang   | root
